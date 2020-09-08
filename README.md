@@ -1,3 +1,3 @@
 # branches
-main branch: hehe
-2. branch: anders
+1. branch = anders
+2. branch = evenless
